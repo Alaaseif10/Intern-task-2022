@@ -1,0 +1,250 @@
+body{
+    margin: 0;
+    padding: 0;
+    white-space: nowrap;
+}
+.search_bar{
+    position: relative;
+    background-color: rgb(246, 246, 246);
+    padding-bottom: 80px;
+}
+.search_bar input{
+    position: absolute;
+    text-align: left;
+    font-size: 16px;
+    margin-top: 15px;
+    margin-left: 600px;
+    padding: 10px 70px 10px 10px;
+}
+.search_bar button{
+    position: absolute;
+    text-align: center;
+    font-size: 16px;
+}
+.button1{
+    position: absolute;
+    background-color: orange;
+    margin-top: 15px;
+    margin-left: 0;
+    margin: 15px 878px;   
+    padding: 10px 10px ;
+    border-color: rgb(211, 206, 206);
+}
+.button2{
+    position: absolute;
+    background-color: rgb(246, 246, 246);
+    color: orange;
+    margin: 15px 1050px;  
+    padding: 16px 40px; 
+    border: none;
+}
+.button3{
+    position: absolute;
+    background-color: orange;
+    color: white;
+    margin: 15px 1200px;  
+    border-radius: 5px;
+    padding: 16px 40px;
+    border: none; 
+}
+.button4{
+    position: absolute;
+    background-color: orange;
+    border-color: rgb(211, 206, 206);
+    color: white;
+    margin: 1000px 808px;
+    padding: 22px 20px;
+}
+.image1{
+    position: relative;
+    color: rgb(235, 164, 32);
+    font-size: 70px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.text-left{
+    position: absolute;
+    bottom: 400px;
+    left: 60px;
+
+}
+.text-right{
+    position: absolute;
+    bottom: 330px;
+    left: 170px;
+}
+.image2{
+    position: relative;
+    font-size: 50px;
+    color: rgb(38, 38, 51);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.caffee{
+    position: absolute;
+    display: block;
+    margin: 250px 300px;
+    
+}
+.square{
+    position: absolute;
+    background-color: rgb(228, 150, 6);
+    margin:220px 660px;
+    height: 100px;
+    width: 80px;
+    z-index: -1;
+}
+.circle{
+    position: absolute;
+    background-color: rgb(255, 166, 0);
+    margin:720px 275px;
+    height: 50px;
+    width: 50px;
+    z-index: -1;
+    border-radius: 50%;
+}
+.short-line{
+    position: absolute;
+    background-color: orange;
+    margin:320px 950px;
+    height: 5px;
+    width: 100px;
+
+}
+.long-line{
+    position: absolute;
+    background-color: orange;
+    margin:540px 950px;
+    height: 7px;
+    width: 400px;
+
+}
+.text1{
+    position: absolute;
+    margin:370px 950px;
+}
+.text2{
+    position: absolute;
+    margin:430px 950px;
+}
+.product{
+    position: relative;
+    margin: 1100px 300px;
+
+}
+.im1{
+   position: absolute; 
+   margin: 100px 7px;
+}
+.im2{
+    position: absolute; 
+    margin: 100px 277px;
+ }
+ .im3{
+    position: absolute; 
+    margin: 100px 547px;
+ }
+ .im4{
+    position: absolute; 
+    margin: 100px 817px;
+ }
+ .product1{
+    position: absolute;
+    margin: 370px 20px;
+    color:rgb(39, 39, 73);
+    font-size: 24px;
+}
+.product2{
+    position: absolute;
+    margin: 370px 290px;
+    color:rgb(39, 39, 73);
+    font-size: 24px;
+}
+.product3{
+    position: absolute;
+    margin: 370px 560px;
+    color:rgb(39, 39, 73);
+    font-size: 24px;
+}
+.product4{
+    position: absolute;
+    margin: 370px 830px;
+    color:rgb(39, 39, 73);
+    font-size: 24px;
+}
+.star1{
+    position: absolute;
+    margin: 435px 20px;
+}
+.review1{
+    position: absolute;
+    margin: 450px 75px;
+    font-size: 20px;
+}
+.value1{
+    position: absolute;
+    margin: 450px 45px;
+    font-size: 20px;
+
+}
+.star2{
+    position: absolute;
+    margin: 435px 290px;
+
+}
+.review2{
+    position: absolute;
+    margin: 450px 345px;
+    font-size: 20px;
+    
+}
+.value2{
+    position: absolute;
+    margin: 450px 315px;
+    font-size: 20px;
+
+}
+.star3{
+    position: absolute;
+    margin: 435px 560px;
+
+}
+.review3{
+    position: absolute;
+    margin: 450px 615px;
+    font-size: 20px;
+}
+.value3{
+    
+    position: absolute;
+    margin: 450px 585px;
+    font-size: 20px;
+}
+.star4{
+    position: absolute;
+    margin: 435px 830px;
+}
+.review4{
+    position: absolute;
+    margin: 450px 880px;
+    font-size: 20px;
+    
+}
+.value4{
+    position: absolute;
+    margin: 450px 852px;
+    font-size: 20px;
+    
+}
+
+.product input{
+    position: absolute;
+    text-align: left;
+    font-size: 16px;
+    margin: 1000px 100px ;
+    padding: 20px 500px 20px 10px;
+}
+.join{
+    font-size: 72px; 
+    position: absolute;
+    margin: 850px 400px ; 
+    color:rgb(38, 38, 51);
+}
